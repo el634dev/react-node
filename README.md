@@ -1,3 +1,6 @@
+# React-Node Example Project
+> React and Node example project that was created for pratice with using React and Node
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
