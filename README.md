@@ -1,6 +1,5 @@
 # React-Node Example Project
 > React and Node project that was created for practice with using React and Node
-> Could be use as a boilerplate
 
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
