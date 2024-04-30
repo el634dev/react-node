@@ -1,12 +1,11 @@
 # React-Node Example Project
-> React and Node example project that was created for pratice with using React and Node
+> React and Node project that was created for practice with using React and Node
+> Could be use as a boilerplate
 
 # Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm install`
