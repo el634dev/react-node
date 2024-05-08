@@ -4,7 +4,7 @@
 # Getting Started
 > After you clone, fork or download a zip of this repo run `npm install` in your terminal
 >
-> Then cd into /server and run `npm start index`, to change directory use `cd server`
+> Then cd into /server and run `npm start index`, to change directory use `cd server`.
 > Then cd into /src using the cd command and run `npm run`
 
 # Getting Started with Create React App
